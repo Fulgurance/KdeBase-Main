@@ -1,0 +1,100 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kde-Frameworks",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Set of add-on libraries for programming with Qt",
+  "website": "https://develop.kde.org/products/frameworks/",
+  "downloadLinks": [],
+  "md5sums": [],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Boost",
+      "version": "1.77.0",
+      "options": []
+    },
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Docbook-Xml",
+      "version": "4.5.0",
+      "options": []
+    },
+    {
+      "name": "Docbook-Xsl-Nons",
+      "version": "1.79.2",
+      "options": []
+    },
+    {
+      "name": "Giflib",
+      "version": "5.2.1",
+      "options": []
+    },
+    {
+      "name": "Libepoxy",
+      "version": "1.5.9",
+      "options": []
+    },
+    {
+      "name": "Libgcrypt",
+      "version": "1.9.4",
+      "options": []
+    },
+    {
+      "name": "Libical",
+      "version": "3.0.10",
+      "options": []
+    },
+    {
+      "name": "Libjpeg-Turbo",
+      "version": "2.1.1",
+      "options": []
+    },
+    {
+      "name": "Libpng",
+      "version": "1.6.37",
+      "options": []
+    },
+    {
+      "name": "Libxslt",
+      "version": "1.1.34",
+      "options": []
+    },
+    {
+      "name": "Lmdb",
+      "version": "0.9.29",
+      "options": []
+    },
+    {
+      "name": "Grencode",
+      "version": "4.1.1",
+      "options": []
+    },
+    {
+      "name": "Phonon",
+      "version": "4.11.1",
+      "options": []
+    },
+    {
+      "name": "Plasma-Wayland-Protocols",
+      "version": "1.3.0",
+      "options": []
+    },
+    {
+      "name": "Shared-Mime-Info",
+      "version": "2.1.0",
+      "options": []
+    },
+    {
+      "name": "Uri",
+      "version": "5.9.0",
+      "options": []
+    }
+  ],
+  "options": []
+}
