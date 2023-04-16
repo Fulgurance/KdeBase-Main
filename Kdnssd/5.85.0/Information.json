@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kdnssd",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Network service discovery using Zeroconf",
+  "website": "https://api.kde.org/frameworks/kddnssd/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kdnssd-5.85.0.tar.xz"],
+  "md5sums": ["510b0e437a855592d3512faa94fcd4ba"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

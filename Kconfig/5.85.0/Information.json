@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kconfig",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Persistent platform-independent application settings",
+  "website": "https://api.kde.org/frameworks/kconfig/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kconfig-5.85.0.tar.xz"],
+  "md5sums": ["eef295c85781ddf9a3abbd95a4da5df3"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

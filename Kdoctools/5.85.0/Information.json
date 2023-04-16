@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kdoctools",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Create documentation from DocBook",
+  "website": "https://api.kde.org/frameworks/kdoctools/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kdoctools-5.85.0.tar.xz"],
+  "md5sums": ["2676c29e1d3a93bd42e4f84f86961c4d"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

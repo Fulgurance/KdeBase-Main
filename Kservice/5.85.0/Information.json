@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kservice",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Plugin framework for desktop services",
+  "website": "https://api.kde.org/frameworks/kservice/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kservice-5.85.0.tar.xz"],
+  "md5sums": ["3081cf3c1eae4121b9b1fb71a1aa7c64"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

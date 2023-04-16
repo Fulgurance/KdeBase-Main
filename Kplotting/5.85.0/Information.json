@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kplotting",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Data plotting",
+  "website": "https://api.kde.org/frameworks/kplotting/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kplotting-5.85.0.tar.xz"],
+  "md5sums": ["040eaecd9952dc73b11ab4570f7b93f8"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

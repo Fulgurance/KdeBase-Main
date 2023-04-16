@@ -94,6 +94,416 @@
       "name": "Uri",
       "version": "5.9.0",
       "options": []
+    },
+    {
+      "name": "Attica",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kapidox",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Karchive",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kcodecs",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kconfig",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kcoreaddons",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdbusaddons",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdnssd",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kguiaddons",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Ki18n",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kidletime",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kimageformats",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kitemmodels",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kitemviews",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kplotting",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kwidgetaddons",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kwindowsystem",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Networkmanager-Qt",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Solid",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Sonnet",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Threadweaver",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kauth",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kcompletion",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kcrash",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdoctools",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kpty",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kunitconversion",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kconfigwidgets",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kservice",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kglobalaccel",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kpackage",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdesu",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kemoticons",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kiconthemes",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kjobwidgets",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Knotifications",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Ktextwidgets",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kxmlgui",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kbookmarks",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kwallet",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kded",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kio",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdeclarative",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kcmutils",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kirigami2",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Syndication",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Knewstuff",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Frameworkintegration",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kinit",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kparts",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kactivities",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdewebkit",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Syntax-Highlightning",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Ktexteditor",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdesignerplugin",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kwayland",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Plasma-Framework",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Modemmanager-Qt",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kpeople",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kxmlrpcclient",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Bluez-Qt",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kfilemetadata",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Baloo",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Breeze-Icons",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Oxygen-Icons5",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kactivities-Stats",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Krunner",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Prison",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Qqc2-Desktop-Style",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kjs",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdelibs4support",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Khtml",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kjsembed",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kmediaplayer",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kross",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kholidays",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Purpose",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kcalendarcore",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kcontacts",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kquickcharts",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Knotifyconfig",
+      "version": "5.85.0",
+      "options": []
+    },
+    {
+      "name": "Kdav",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []

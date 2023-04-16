@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kcoreaddons",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Qt addon library with a collection of non-GUI utilities",
+  "website": "https://api.kde.org/frameworks/kcoreaddons/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kcoreaddons-5.85.0.tar.xz"],
+  "md5sums": ["d7a2748aebb1206fc38cb00bb39bc0eb"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

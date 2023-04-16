@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kitemmodels",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Set of item models extending the Qt model-view framework",
+  "website": "https://api.kde.org/frameworks/kitemmodels/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kitemmodels-5.85.0.tar.xz"],
+  "md5sums": ["3f00cbe1c9ded4b9f061f0dcc3c38071"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

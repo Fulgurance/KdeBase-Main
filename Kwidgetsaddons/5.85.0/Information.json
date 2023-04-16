@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kwidgetsaddons",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Large set of desktop widgets",
+  "website": "https://api.kde.org/frameworks/kwidgetsaddons/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kwidgetsaddons-5.85.0.tar.xz"],
+  "md5sums": ["381c75cf800cfe1483ea3493e2de245c"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

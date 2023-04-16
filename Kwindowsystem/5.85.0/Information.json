@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kwindowsystem",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Access to the windowing system",
+  "website": "https://api.kde.org/frameworks/kwindowsystem/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kwindowsystem-5.85.0.tar.xz"],
+  "md5sums": ["4d9cca227b795280ee920156cdec4859"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

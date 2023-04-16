@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kcompletion",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Powerful completion framework including completion-enabled lineedit and combobox",
+  "website": "https://api.kde.org/frameworks/kcompletion/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kcompletion-5.85.0.tar.xz"],
+  "md5sums": ["dcf9b03389d733eac8ae930b26d5389a"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kpty",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Interfacing with pseudo terminal devices",
+  "website": "https://api.kde.org/frameworks/kpty/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kpty-5.85.0.tar.xz"],
+  "md5sums": ["f85fe1b8f7319ed6e69d562671a705d0"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

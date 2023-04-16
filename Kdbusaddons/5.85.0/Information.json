@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kdbusaddons",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Convenience classes for D-Bus",
+  "website": "https://api.kde.org/frameworks/kdbusaddons/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kdbusaddons-5.85.0.tar.xz"],
+  "md5sums": ["c9b3062073d8fb0977aa63fab7582d1e"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

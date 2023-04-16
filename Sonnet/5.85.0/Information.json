@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Sonnet",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Multi-language spell checker",
+  "website": "https://api.kde.org/frameworks/sonnet/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/sonnet-5.85.0.tar.xz"],
+  "md5sums": ["6883eeb4c62837d70c6d6cbd01ba4cb8"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}
