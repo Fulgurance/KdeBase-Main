@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kfilemetadata",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Simple library for extracting the text and metadata from a number of different files",
+  "website": "https://api.kde.org/frameworks/kfilemetadata/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kfilemetadata-5.85.0.tar.xz"],
+  "md5sums": ["866ba6788b62d46011d6d23f4195230d"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kactivities-Stats",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Library to access the usage statistics data collected by the KDE activity manager",
+  "website": "https://api.kde.org/frameworks/kactivities-stats/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kactivities-stats-5.85.0.tar.xz"],
+  "md5sums": ["65e8097e66204a7b8ae8fd616a9789a9"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

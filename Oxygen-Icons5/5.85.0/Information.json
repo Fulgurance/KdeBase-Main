@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Oxygen-Icons5",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Oxygen icon theme",
+  "website": "https://api.kde.org/frameworks/oxygen-icons5/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/oxygen-icons5-5.85.0.tar.xz"],
+  "md5sums": ["b6cad03903a685db1b323db2165355eb"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

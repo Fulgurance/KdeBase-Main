@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kded",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Central daemon of KDE work spaces",
+  "website": "https://api.kde.org/frameworks/kded/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kded-5.85.0.tar.xz"],
+  "md5sums": ["aa1168d883e43dc304bbd809c9aa2f3d"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

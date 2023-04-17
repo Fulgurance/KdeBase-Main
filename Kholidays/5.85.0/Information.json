@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kholidays",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Dates for holidays and other special events",
+  "website": "https://api.kde.org/frameworks/kholidays/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kholidays-5.85.0.tar.xz"],
+  "md5sums": ["75032ec4d4b432c7e3bb83b0bdbe0cac"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

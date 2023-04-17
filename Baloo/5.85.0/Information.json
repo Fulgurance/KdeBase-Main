@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Baloo",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "File indexing and file search framework for KDE Plasma",
+  "website": "https://api.kde.org/frameworks/baloo/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/baloo-5.85.0.tar.xz"],
+  "md5sums": ["e4fa06ec978fece6eb13c2a9e6749fcc"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

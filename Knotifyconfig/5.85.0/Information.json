@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Knotifyconfig",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Configuration dialog for desktop notifications",
+  "website": "https://api.kde.org/frameworks/knotifyconfig/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/knotifyconfig-5.85.0.tar.xz"],
+  "md5sums": ["345e20cbc8d815173ab5861a72b084bb"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

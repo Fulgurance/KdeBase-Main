@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kcmutils",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Utilities for KDE System Settings modules",
+  "website": "https://api.kde.org/frameworks/kcmutils/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kcmutils-5.85.0.tar.xz"],
+  "md5sums": ["2e11d1726375387f2942cf9f3845760a"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

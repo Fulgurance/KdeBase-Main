@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Ktextwidgets",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Text editing widgets",
+  "website": "https://api.kde.org/frameworks/ktextwidgets/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/ktextwidgets-5.85.0.tar.xz"],
+  "md5sums": ["fd3490e92465f433a5576b40ac348cbd"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

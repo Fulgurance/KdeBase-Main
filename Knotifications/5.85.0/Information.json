@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Knotifications",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Cross-platform library for creating popup notifications",
+  "website": "https://api.kde.org/frameworks/knotifications/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/knotifications-5.85.0.tar.xz"],
+  "md5sums": ["8b7c4520f6ffc7cfc1fbd22e0c9ffa18"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

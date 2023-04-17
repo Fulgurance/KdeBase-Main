@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kxmlgui",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Framework for managing menu and toolbar actions",
+  "website": "https://api.kde.org/frameworks/kxmlgui/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kxmlgui-5.85.0.tar.xz"],
+  "md5sums": ["5b2362e1d485d80c3111679ae4cad68b"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

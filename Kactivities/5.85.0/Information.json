@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kactivities",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Core components for the KDE Activity concept",
+  "website": "https://api.kde.org/frameworks/kactivities/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kactivities-5.85.0.tar.xz"],
+  "md5sums": ["0fef80b90c110adfe7c775f93e1f3e1d"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

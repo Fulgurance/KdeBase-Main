@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kxmlrpcclient",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Provides client-side support for the XML-RPC protocol",
+  "website": "https://api.kde.org/frameworks/kcmlrpcclient/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kcmlrpcclient-5.85.0.tar.xz"],
+  "md5sums": ["148e239b5fd08a66e655116a7399c22d"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

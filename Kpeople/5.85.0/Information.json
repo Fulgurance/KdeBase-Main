@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kpeople",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Provides access to all contacts and aggregates them by person",
+  "website": "https://api.kde.org/frameworks/kpeople/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kpeople-5.85.0.tar.xz"],
+  "md5sums": ["424f8cbccde63734ca9a41d2be38ce44"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

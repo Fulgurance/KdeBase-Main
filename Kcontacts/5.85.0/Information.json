@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kcontacts",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Support for vCard contacts",
+  "website": "https://api.kde.org/frameworks/kcontacts/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kcontacts-5.85.0.tar.xz"],
+  "md5sums": ["565639b8a34802e97efaeac520d894a3"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Khtml",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Web rendering engine based on the KParts technology and using KJS for JavaScript support",
+  "website": "https://api.kde.org/frameworks/khtml/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/khtml-5.85.0.tar.xz"],
+  "md5sums": ["06c9c414894382a06a150967d2b1bbee"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

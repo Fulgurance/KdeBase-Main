@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Syndication",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Parser library for RSS and Atom feeds",
+  "website": "https://api.kde.org/frameworks/syndication/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/syndication-5.85.0.tar.xz"],
+  "md5sums": ["8de5ea8546df1d8a23a2eb1ce465dbc9"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

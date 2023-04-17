@@ -1,0 +1,20 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kjobwidgets",
+  "version": "5.85.0",
+  "architectures": ["x86_64"],
+  "description": "Widgets for showing progress of asynchronous jobs",
+  "website": "https://api.kde.org/frameworks/kjobwidgets/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kjobwidgets-5.85.0.tar.xz"],
+  "md5sums": ["b73b00a29afcf70d964190219ee6ccbc"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}
