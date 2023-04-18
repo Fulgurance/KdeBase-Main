@@ -1,6 +1,6 @@
 {
   "port": "KdeBase-Main",
-  "name": "Kwidgetsaddons",
+  "name": "Kwidgetaddons",
   "version": "5.85.0",
   "architectures": ["x86_64"],
   "description": "Large set of desktop widgets",
