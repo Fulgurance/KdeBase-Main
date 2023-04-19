@@ -5,8 +5,8 @@
   "architectures": ["x86_64"],
   "description": "Embedding of scripting into applications",
   "website": "https://api.kde.org/frameworks/kross/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kross-5.85.0.tar.xz"],
-  "md5sums": ["2e92ff7e9cc04bd2a3e06dfa24cf0f1f"],
+  "downloadLinks": ["https://invent.kde.org/frameworks/kross/-/archive/v5.85.0/kross-v5.85.0.tar.gz"],
+  "md5sums": ["607c0a531b8ffcbbfa93d2c4fe962d69"],
   "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
