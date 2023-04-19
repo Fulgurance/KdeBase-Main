@@ -5,8 +5,8 @@
   "architectures": ["x86_64"],
   "description": "Binding Javascript object to QObjects",
   "website": "https://api.kde.org/frameworks/kjsembed/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kjsembed-5.85.0.tar.xz"],
-  "md5sums": ["e8f677e831ec75d8894ab77b139b0d77"],
+  "downloadLinks": ["https://invent.kde.org/frameworks/kjsembed/-/archive/v5.85.0/kjsembed-v5.85.0.tar.gz"],
+  "md5sums": ["01429c28bd520d733a013306756751a1"],
   "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
