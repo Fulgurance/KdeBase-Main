@@ -32,7 +32,7 @@ class Target < ISM::Software
     def install
         super
 
-        runLdConfigCommand
+        runLdconfigCommand
     end
 
 end
