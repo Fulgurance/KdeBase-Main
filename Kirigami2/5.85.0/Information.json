@@ -11,8 +11,8 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "name": "SystemBase",
-      "version": "0.2.0",
+      "name": "Qt",
+      "version": "5.15.2",
       "options": []
     }
   ],
