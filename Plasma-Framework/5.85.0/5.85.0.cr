@@ -4,7 +4,7 @@ class Target < ISM::Software
         @buildDirectory = true
         super
 
-        fileReplaceTextAtLineNumber("#{mainWorkDirectoryPath(false)}/src/declarativeimports/core/CMakeLists.txt","${EGL_TARGET}","GL EGL")
+        fileReplaceTextAtLineNumber("#{mainWorkDirectoryPath(false)}/src/declarativeimports/core/CMakeLists.txt","${EGL_TARGET}","GL EGL",62)
     end
     
     def configure
