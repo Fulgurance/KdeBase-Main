@@ -5,8 +5,8 @@
   "architectures": ["x86_64"],
   "description": "Interface for media player KParts",
   "website": "https://api.kde.org/frameworks/kjsembed/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kjsembed-5.85.0.tar.xz"],
-  "md5sums": ["346789a75525372ac67d46c39834b150"],
+  "downloadLinks": ["https://invent.kde.org/frameworks/kmediaplayer/-/archive/v5.85.0/kmediaplayer-v5.85.0.tar.gz"],
+  "md5sums": ["d25098db452db458e29d9616af23f601"],
   "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
