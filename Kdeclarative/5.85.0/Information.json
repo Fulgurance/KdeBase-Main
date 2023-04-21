@@ -15,6 +15,11 @@
       "version": ">=5.85.0",
       "options": []
     }
+    {
+      "name": "Qt",
+      "version": "5.15.2",
+      "options": []
+    }
   ],
   "options": []
 }
