@@ -14,7 +14,7 @@
       "name": "Extra-Cmake-Modules",
       "version": ">=5.85.0",
       "options": []
-    }
+    },
     {
       "name": "Qt",
       "version": "5.15.2",
