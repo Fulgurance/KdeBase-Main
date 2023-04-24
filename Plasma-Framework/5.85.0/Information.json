@@ -24,6 +24,11 @@
       "name": "Knotifications",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Kdeclarative",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []
