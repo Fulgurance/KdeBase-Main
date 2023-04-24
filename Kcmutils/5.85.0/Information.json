@@ -19,6 +19,11 @@
       "name": "Qt",
       "version": "5.15.2",
       "options": []
+    },
+    {
+      "name": "Kdeclarative",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []
