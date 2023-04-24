@@ -19,6 +19,11 @@
       "name": "Qt",
       "version": "5.15.2",
       "options": []
+    },
+    {
+      "name": "Phonon",
+      "version": "4.11.1",
+      "options": []
     }
   ],
   "options": []
