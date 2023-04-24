@@ -181,11 +181,6 @@
       "options": []
     },
     {
-      "name": "Networkmanager-Qt",
-      "version": "5.85.0",
-      "options": []
-    },
-    {
       "name": "Solid",
       "version": "5.85.0",
       "options": []
