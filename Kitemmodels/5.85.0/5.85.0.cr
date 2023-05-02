@@ -8,8 +8,8 @@ class Target < ISM::Software
     def configure
         super
 
-        runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/opt/kf5",
-                            "-DCMAKE_PREFIX_PATH=/opt/qt5",
+        runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
+                            "-DCMAKE_PREFIX_PATH=/usr",
                             "-DCMAKE_BUILD_TYPE=Release",
                             "-DBUILD_TESTING=OFF",
                             "-Wno-dev",
