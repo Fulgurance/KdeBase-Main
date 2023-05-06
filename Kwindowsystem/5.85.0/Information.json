@@ -18,12 +18,7 @@
     {
       "name": "Qt",
       "version": "5.15.2",
-      "options": []
-    },
-    {
-      "name": "Xcb-Util-Keysyms",
-      "version": "0.4.0",
-      "options": []
+      "options": ["Xcb"]
     }
   ],
   "options": []
