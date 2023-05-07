@@ -24,6 +24,11 @@
       "name": "Khtml",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Knotifications",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []
