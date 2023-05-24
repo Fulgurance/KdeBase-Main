@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Qt wrapper for NetworkManager DBus API",
   "website": "https://api.kde.org/frameworks/networkmanager-qt/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/networkmanager-qt-5.85.0.tar.xz"],
-  "md5sums": ["f530333f5635266765b9d998ddc51d33"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

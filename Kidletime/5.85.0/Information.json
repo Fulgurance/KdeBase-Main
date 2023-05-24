@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Reporting of idle time of user and system",
   "website": "https://api.kde.org/frameworks/kidletime/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kidletime-5.85.0.tar.xz"],
-  "md5sums": ["58a3e469ac54cb78469b27f216c87c0a"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

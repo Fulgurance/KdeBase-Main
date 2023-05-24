@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Desktop hardware abstraction",
   "website": "https://api.kde.org/frameworks/solid/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/solid-5.85.0.tar.xz"],
-  "md5sums": ["254a03e4914ad144126a615ebbcbc11c"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

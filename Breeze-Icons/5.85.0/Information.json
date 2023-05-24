@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Freedesktop.org compatible icon theme",
   "website": "https://api.kde.org/frameworks/breeze-icons/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/breeze-icons-5.85.0.tar.xz"],
-  "md5sums": ["42665314255bdf88736973c28c8c0a65"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

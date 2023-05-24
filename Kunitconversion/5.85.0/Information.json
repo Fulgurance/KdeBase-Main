@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Converting physical units",
   "website": "https://api.kde.org/frameworks/kunitconversion/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kunitconversion-5.85.0.tar.xz"],
-  "md5sums": ["298c9df17377b26ccd76d34f54ffad6c"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

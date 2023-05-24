@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Provides client-side support for the XML-RPC protocol",
   "website": "https://api.kde.org/frameworks/kcmlrpcclient/html/index.html",
-  "downloadLinks": ["https://invent.kde.org/frameworks/kxmlrpcclient/-/archive/v5.85.0/kxmlrpcclient-v5.85.0.tar.gz"],
-  "md5sums": ["86977913faf6807cd113142bae74e3a0"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

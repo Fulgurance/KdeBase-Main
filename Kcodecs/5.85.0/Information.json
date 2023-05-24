@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "String encoding library",
   "website": "https://api.kde.org/frameworks/kcodecs/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kcodecs-5.85.0.tar.xz"],
-  "md5sums": ["3fb5aba8c68be4c384ee17a91798ddec"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

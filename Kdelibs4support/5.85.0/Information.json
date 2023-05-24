@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Legacy support for kdelibs 4 compatibility",
   "website": "https://api.kde.org/frameworks/kdelibs4support/html/index.html",
-  "downloadLinks": ["https://invent.kde.org/frameworks/kdelibs4support/-/archive/v5.85.0/kdelibs4support-v5.85.0.tar.gz"],
-  "md5sums": ["9b2cba1711f494a64f1303d8e927acb0"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

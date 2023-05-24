@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Plugin framework for user interface components",
   "website": "https://api.kde.org/frameworks/kparts/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kparts-5.85.0.tar.xz"],
-  "md5sums": ["14c79ffe82f063ff67392f64005477d2"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

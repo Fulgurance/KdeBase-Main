@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Foundational libraries, components and tools of the Plasma workspaces",
   "website": "https://api.kde.org/frameworks/plasma-framework/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/plasma-framework-5.85.0.tar.xz"],
-  "md5sums": ["fa2e79613982549dca6e20ecd0907fa5"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

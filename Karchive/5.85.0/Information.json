@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Reading, creating, and manipulating file archives",
   "website": "https://api.kde.org/frameworks/karchive/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/karchive-5.85.0.tar.xz"],
-  "md5sums": ["deee0085dbd22032a437106ba01ba7b2"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

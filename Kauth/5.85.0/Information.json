@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Execute actions as privileged user",
   "website": "https://api.kde.org/frameworks/kauth/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kauth-5.85.0.tar.xz"],
-  "md5sums": ["7e097f4474c43e08b2540a8883dc1e00"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

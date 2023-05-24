@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Web rendering engine based on the KParts technology and using KJS for JavaScript support",
   "website": "https://api.kde.org/frameworks/khtml/html/index.html",
-  "downloadLinks": ["https://invent.kde.org/frameworks/khtml/-/archive/v5.85.0/khtml-v5.85.0.tar.gz"],
-  "md5sums": ["004088841b636aaa7c9ce2f4a01dfac7"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

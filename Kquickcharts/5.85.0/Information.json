@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "QtQuick module providing high-performance charts",
   "website": "https://api.kde.org/frameworks/kquickcharts/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kquickcharts-5.85.0.tar.xz"],
-  "md5sums": ["07a1780a5e1cb8479232cf2244b69f7a"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

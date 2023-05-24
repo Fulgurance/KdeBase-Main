@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Global desktop keyboard shortcuts",
   "website": "https://api.kde.org/frameworks/kglobalaccel/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kglobalaccel-5.85.0.tar.xz"],
-  "md5sums": ["c3a62eeaf5d94bf326cab38dd1380204"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

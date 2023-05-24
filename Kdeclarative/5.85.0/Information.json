@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Integration of QML and KDE work spaces",
   "website": "https://api.kde.org/frameworks/kdeclarative/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kdeclarative-5.85.0.tar.xz"],
-  "md5sums": ["1da45e0185075d0c384100c17d8a789f"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

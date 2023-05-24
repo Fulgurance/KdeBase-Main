@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Full text editor component",
   "website": "https://api.kde.org/frameworks/ktexteditor/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/ktexteditor-5.85.0.tar.xz"],
-  "md5sums": ["535adfca5246321df0f69de579c5f29c"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Set of add-on libraries for programming with Qt",
   "website": "https://develop.kde.org/products/frameworks/",
-  "downloadLinks": [],
-  "md5sums": [],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

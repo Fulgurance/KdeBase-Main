@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Framework for downloading and sharing additional application data",
   "website": "https://api.kde.org/frameworks/knewstuff/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/knewstuff-5.85.0.tar.xz"],
-  "md5sums": ["7b1926330878c8c9c8a28f2403ff2e81"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

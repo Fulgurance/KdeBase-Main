@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Bookmarks management library",
   "website": "https://api.kde.org/frameworks/kbookmarks/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kbookmarks-5.85.0.tar.xz"],
-  "md5sums": ["679bb7a808f2d51e43f9dc26ce3f62d1"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Qt wrapper for BlueZ 5 DBus API",
   "website": "https://api.kde.org/frameworks/bluez-qt/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/bluez-qt-5.85.0.tar.xz"],
-  "md5sums": ["0a90f655455ab7dcbe5e652a84a06a6e"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

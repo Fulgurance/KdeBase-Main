@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Scripts and data for building API documentation",
   "website": "https://api.kde.org/frameworks/kapidox/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kapidox-5.85.0.tar.xz"],
-  "md5sums": ["007581e41e7c13cc52f03c50f65c9826"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

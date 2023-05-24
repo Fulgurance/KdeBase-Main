@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Convert text emoticons to graphical emoticons",
   "website": "https://api.kde.org/frameworks/kemoticons/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kemoticons-5.85.0.tar.xz"],
-  "md5sums": ["c4c930b28e1c5bd4e2a1aad9e8c328b0"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

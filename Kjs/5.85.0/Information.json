@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Javascript engine",
   "website": "https://api.kde.org/frameworks/kjs/html/index.html",
-  "downloadLinks": ["https://invent.kde.org/frameworks/kjs/-/archive/v5.85.0/kjs-v5.85.0.tar.gz"],
-  "md5sums": ["f37763e38420b5f74a86816a720bd688"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

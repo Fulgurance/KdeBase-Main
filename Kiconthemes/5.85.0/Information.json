@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Icon GUI utilities",
   "website": "https://api.kde.org/frameworks/kiconthemes/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kiconthemes-5.85.0.tar.xz"],
-  "md5sums": ["edf31862bd801304fdb578050b0326d2"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Graceful handling of application crashes",
   "website": "https://api.kde.org/frameworks/kcrash/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kcrash-5.85.0.tar.xz"],
-  "md5sums": ["cc72c9ac7cba7207ef1a170bb2e4719e"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

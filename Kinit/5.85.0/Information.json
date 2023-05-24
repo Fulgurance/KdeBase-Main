@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Helper library to speed up start of applications on KDE workspaces",
   "website": "https://api.kde.org/frameworks/kinit/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kinit-5.85.0.tar.xz"],
-  "md5sums": ["e86d84f9d34aa94e55d0ca177f49a57c"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

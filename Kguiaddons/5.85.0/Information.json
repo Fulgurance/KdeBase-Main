@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Utilities for graphical user interfaces",
   "website": "https://api.kde.org/frameworks/kguiaddons/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kguiaddons-5.85.0.tar.xz"],
-  "md5sums": ["7b5b4d7610c45895ac5138c1e762ef41"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

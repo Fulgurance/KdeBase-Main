@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Widgets for configuration dialogs",
   "website": "https://api.kde.org/frameworks/kconfigwidgets/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kconfigwidgets-5.85.0.tar.xz"],
-  "md5sums": ["530e29b6a5993c0f23adbe09c48a7f16"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

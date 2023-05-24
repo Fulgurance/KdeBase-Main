@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Set of item views extending the Qt model-view framework",
   "website": "https://api.kde.org/frameworks/kitemviews/html/index.html",
-  "downloadLinks": ["https://download.kde.org/stable/frameworks/5.85/kitemviews-5.85.0.tar.xz"],
-  "md5sums": ["5ed293814f6ca4c37a9fef6963431db0"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

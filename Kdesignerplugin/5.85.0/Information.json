@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Integrating custom widgets with Qt Designer",
   "website": "https://api.kde.org/frameworks/kdesignerplugin/html/index.html",
-  "downloadLinks": ["https://invent.kde.org/frameworks/kdesignerplugin/-/archive/v5.85.0/kdesignerplugin-v5.85.0.tar.gz"],
-  "md5sums": ["62fc3447886f5568bd17a6dc50594254"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {
