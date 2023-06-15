@@ -21,6 +21,11 @@
       "name": "Kservice",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Kio",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []
