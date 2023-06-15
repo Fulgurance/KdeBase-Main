@@ -26,6 +26,11 @@
       "name": "Kidletime",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Kio",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []
