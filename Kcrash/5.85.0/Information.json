@@ -15,7 +15,7 @@
     {
       "name": "Qt",
       "version": "5.15.2",
-      "options": []
+      "options": ["Xcb"]
     }
   ],
   "options": []
