@@ -16,6 +16,11 @@
       "name": "Qt",
       "version": "5.15.2",
       "options": []
+    },
+    {
+      "name": "Kglobalaccel",
+      "version": "5.15.2",
+      "options": []
     }
   ],
   "options": []
