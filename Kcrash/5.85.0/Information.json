@@ -16,6 +16,11 @@
       "name": "Qt",
       "version": "5.15.2",
       "options": ["Xcb"]
+    },
+    {
+      "name": "Kwindowsystem",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []
