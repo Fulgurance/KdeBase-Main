@@ -21,6 +21,11 @@
       "name": "Kcrash",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Kbookmarks",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []
