@@ -21,6 +21,11 @@
       "name": "Knotifications",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Kparts",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "options": []
