@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Frameworkintegration",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Integration of Qt application with KDE workspaces",
   "website": "https://api.kde.org/frameworks/frameworkintegration/html/index.html",
   "installedFiles": [],

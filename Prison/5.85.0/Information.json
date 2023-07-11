@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Prison",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Qt-based barcode abstraction layer/library and provides uniform access to generation of barcodes with data",
   "website": "https://api.kde.org/frameworks/prison/html/index.html",
   "installedFiles": [],

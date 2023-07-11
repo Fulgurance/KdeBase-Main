@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kdav",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "DAV protocol implementation with KJobs",
   "website": "https://api.kde.org/frameworks/kdav/html/index.html",
   "installedFiles": [],

@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kio",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Network transparent access to files and data",
   "website": "https://api.kde.org/frameworks/kio/html/index.html",
   "installedFiles": [],

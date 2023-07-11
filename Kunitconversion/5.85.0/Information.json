@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kunitconversion",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Converting physical units",
   "website": "https://api.kde.org/frameworks/kunitconversion/html/index.html",
   "installedFiles": [],

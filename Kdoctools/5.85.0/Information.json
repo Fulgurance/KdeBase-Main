@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kdoctools",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Create documentation from DocBook",
   "website": "https://api.kde.org/frameworks/kdoctools/html/index.html",
   "installedFiles": [],

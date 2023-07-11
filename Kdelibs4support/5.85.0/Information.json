@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kdelibs4support",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Legacy support for kdelibs 4 compatibility",
   "website": "https://api.kde.org/frameworks/kdelibs4support/html/index.html",
   "installedFiles": [],

@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kwallet",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Safe desktop-wide storage for passwords",
   "website": "https://api.kde.org/frameworks/kwallet/html/index.html",
   "installedFiles": [],

@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kcmutils",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Utilities for KDE System Settings modules",
   "website": "https://api.kde.org/frameworks/kcmutils/html/index.html",
   "installedFiles": [],

@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Khtml",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Web rendering engine based on the KParts technology and using KJS for JavaScript support",
   "website": "https://api.kde.org/frameworks/khtml/html/index.html",
   "installedFiles": [],

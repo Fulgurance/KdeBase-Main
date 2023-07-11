@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kidletime",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Reporting of idle time of user and system",
   "website": "https://api.kde.org/frameworks/kidletime/html/index.html",
   "installedFiles": [],
@@ -15,7 +17,9 @@
     {
       "name": "Qt",
       "version": "5.15.2",
-      "options": ["Xcb"]
+      "options": [
+        "Xcb"
+      ]
     }
   ],
   "kernelDependencies": [],

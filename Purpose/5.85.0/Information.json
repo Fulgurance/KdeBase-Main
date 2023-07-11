@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Purpose",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Offers available actions for a specific purpose",
   "website": "https://api.kde.org/frameworks/purpose/html/index.html",
   "installedFiles": [],

@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kcalendarcore",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Library provides access to and handling of calendar data",
   "website": "https://api.kde.org/frameworks/kcalendarcore/html/index.html",
   "installedFiles": [],

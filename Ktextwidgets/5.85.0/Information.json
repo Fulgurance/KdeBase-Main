@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Ktextwidgets",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Text editing widgets",
   "website": "https://api.kde.org/frameworks/ktextwidgets/html/index.html",
   "installedFiles": [],

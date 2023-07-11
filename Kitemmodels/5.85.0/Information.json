@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kitemmodels",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Set of item models extending the Qt model-view framework",
   "website": "https://api.kde.org/frameworks/kitemmodels/html/index.html",
   "installedFiles": [],

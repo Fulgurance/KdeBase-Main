@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kbookmarks",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Bookmarks management library",
   "website": "https://api.kde.org/frameworks/kbookmarks/html/index.html",
   "installedFiles": [],

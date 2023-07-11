@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kauth",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Execute actions as privileged user",
   "website": "https://api.kde.org/frameworks/kauth/html/index.html",
   "installedFiles": [],

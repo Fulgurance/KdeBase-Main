@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kpeople",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Provides access to all contacts and aggregates them by person",
   "website": "https://api.kde.org/frameworks/kpeople/html/index.html",
   "installedFiles": [],

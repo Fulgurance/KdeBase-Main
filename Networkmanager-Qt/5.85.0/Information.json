@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Networkmanager-Qt",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Qt wrapper for NetworkManager DBus API",
   "website": "https://api.kde.org/frameworks/networkmanager-qt/html/index.html",
   "installedFiles": [],

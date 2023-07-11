@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kcoreaddons",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Qt addon library with a collection of non-GUI utilities",
   "website": "https://api.kde.org/frameworks/kcoreaddons/html/index.html",
   "installedFiles": [],

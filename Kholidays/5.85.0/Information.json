@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kholidays",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Dates for holidays and other special events",
   "website": "https://api.kde.org/frameworks/kholidays/html/index.html",
   "installedFiles": [],

@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kdeclarative",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Integration of QML and KDE work spaces",
   "website": "https://api.kde.org/frameworks/kdeclarative/html/index.html",
   "installedFiles": [],

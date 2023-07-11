@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Attica",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Qt library that implements the Open Collaboration Services API",
   "website": "https://api.kde.org/frameworks/attica/html/index.html",
   "installedFiles": [],

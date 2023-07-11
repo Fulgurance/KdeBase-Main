@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kxmlgui",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Framework for managing menu and toolbar actions",
   "website": "https://api.kde.org/frameworks/kxmlgui/html/index.html",
   "installedFiles": [],

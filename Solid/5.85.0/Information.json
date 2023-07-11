@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Solid",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Desktop hardware abstraction",
   "website": "https://api.kde.org/frameworks/solid/html/index.html",
   "installedFiles": [],

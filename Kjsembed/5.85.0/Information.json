@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kjsembed",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Binding Javascript object to QObjects",
   "website": "https://api.kde.org/frameworks/kjsembed/html/index.html",
   "installedFiles": [],

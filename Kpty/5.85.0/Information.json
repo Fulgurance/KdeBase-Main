@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kpty",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Interfacing with pseudo terminal devices",
   "website": "https://api.kde.org/frameworks/kpty/html/index.html",
   "installedFiles": [],

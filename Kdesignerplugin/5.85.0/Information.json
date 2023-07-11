@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kdesignerplugin",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Integrating custom widgets with Qt Designer",
   "website": "https://api.kde.org/frameworks/kdesignerplugin/html/index.html",
   "installedFiles": [],

@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kcompletion",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Powerful completion framework including completion-enabled lineedit and combobox",
   "website": "https://api.kde.org/frameworks/kcompletion/html/index.html",
   "installedFiles": [],

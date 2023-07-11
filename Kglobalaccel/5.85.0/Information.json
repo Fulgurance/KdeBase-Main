@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kglobalaccel",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Global desktop keyboard shortcuts",
   "website": "https://api.kde.org/frameworks/kglobalaccel/html/index.html",
   "installedFiles": [],

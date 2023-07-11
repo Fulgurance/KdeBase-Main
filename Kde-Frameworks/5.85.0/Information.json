@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kde-Frameworks",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Set of add-on libraries for programming with Qt",
   "website": "https://develop.kde.org/products/frameworks/",
   "installedFiles": [],

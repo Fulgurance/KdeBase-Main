@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kirigami2",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Set of QtQuick components for building adaptable UIs based on Qt Quick Controls 2",
   "website": "https://api.kde.org/frameworks/kirigami/html/index.html",
   "installedFiles": [],

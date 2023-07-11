@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Knotifyconfig",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Configuration dialog for desktop notifications",
   "website": "https://api.kde.org/frameworks/knotifyconfig/html/index.html",
   "installedFiles": [],

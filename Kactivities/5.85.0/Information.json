@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kactivities",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Core components for the KDE Activity concept",
   "website": "https://api.kde.org/frameworks/kactivities/html/index.html",
   "installedFiles": [],

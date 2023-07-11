@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Plasma-Framework",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Foundational libraries, components and tools of the Plasma workspaces",
   "website": "https://api.kde.org/frameworks/plasma-framework/html/index.html",
   "installedFiles": [],

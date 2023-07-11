@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kquickcharts",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "QtQuick module providing high-performance charts",
   "website": "https://api.kde.org/frameworks/kquickcharts/html/index.html",
   "installedFiles": [],

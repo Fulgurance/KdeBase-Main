@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Plasma-Wayland-Protocols",
   "version": "1.3.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Plasma-specific protocols for Wayland",
   "website": "https://invent.kde.org/libraries/plasma-wayland-protocols",
   "installedFiles": [],

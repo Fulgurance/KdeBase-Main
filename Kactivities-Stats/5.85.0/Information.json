@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Kactivities-Stats",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Library to access the usage statistics data collected by the KDE activity manager",
   "website": "https://api.kde.org/frameworks/kactivities-stats/html/index.html",
   "installedFiles": [],

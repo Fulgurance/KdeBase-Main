@@ -2,7 +2,9 @@
   "port": "KdeBase-Main",
   "name": "Threadweaver",
   "version": "5.85.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Helper for multithreaded programming",
   "website": "https://api.kde.org/frameworks/threadweaver/html/index.html",
   "installedFiles": [],
