@@ -1,6 +1,6 @@
 {
   "port": "KdeBase-Main",
-  "name": "Modemmanager-Qt",
+  "name": "ModemManager-Qt",
   "version": "5.85.0",
   "architectures": [
     "x86_64"
