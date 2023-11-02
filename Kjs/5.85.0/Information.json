@@ -18,6 +18,11 @@
       "name": "Qt",
       "version": "5.15.2",
       "options": []
+    },
+    {
+      "name": "Pcre",
+      "version": ">=4.5.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
