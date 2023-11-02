@@ -25,6 +25,11 @@
       "name": "Kwindowsystem",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Kcoreaddons",
+      "version": "5.85.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
