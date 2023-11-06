@@ -24,9 +24,7 @@
     {
       "name": "Kcoreaddons",
       "version": "5.85.0",
-      "options": [
-        "Xcb"
-      ]
+      "options": ["Xcb"]
     }
   ],
   "kernelDependencies": [],
