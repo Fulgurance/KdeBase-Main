@@ -1,0 +1,21 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kapidox",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Scripts and data for building API documentation",
+  "website": "https://api.kde.org/frameworks/kapidox/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

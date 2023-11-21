@@ -1,0 +1,31 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kactivities-Stats",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Library to access the usage statistics data collected by the KDE activity manager",
+  "website": "https://api.kde.org/frameworks/kactivities-stats/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    },
+    {
+      "name": "Kactivities",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

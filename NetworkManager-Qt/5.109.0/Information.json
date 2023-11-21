@@ -1,0 +1,31 @@
+{
+  "port": "KdeBase-Main",
+  "name": "NetworkManager-Qt",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Qt wrapper for NetworkManager DBus API",
+  "website": "https://api.kde.org/frameworks/networkmanager-qt/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    },
+    {
+      "name": "NetworkManager",
+      "version": "1.44.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

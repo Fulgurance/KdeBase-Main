@@ -1,0 +1,38 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kcrash",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Graceful handling of application crashes",
+  "website": "https://api.kde.org/frameworks/kcrash/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": [
+        "Xcb"
+      ]
+    },
+    {
+      "name": "Kwindowsystem",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Kcoreaddons",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

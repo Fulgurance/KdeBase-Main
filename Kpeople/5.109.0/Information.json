@@ -1,0 +1,26 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kpeople",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Provides access to all contacts and aggregates them by person",
+  "website": "https://api.kde.org/frameworks/kpeople/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

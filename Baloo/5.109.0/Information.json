@@ -1,0 +1,41 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Baloo",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "File indexing and file search framework for KDE Plasma",
+  "website": "https://api.kde.org/frameworks/baloo/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    },
+    {
+      "name": "Kcrash",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Kidletime",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Kio",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kdbusaddons",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Convenience classes for D-Bus",
+  "website": "https://api.kde.org/frameworks/kdbusaddons/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

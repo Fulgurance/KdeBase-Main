@@ -1,0 +1,31 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Krunner",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Framework for Plasma runners",
+  "website": "https://api.kde.org/frameworks/krunner/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    },
+    {
+      "name": "Plasma-Framework",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

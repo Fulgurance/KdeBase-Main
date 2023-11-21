@@ -1,0 +1,31 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Knotifications",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Cross-platform library for creating popup notifications",
+  "website": "https://api.kde.org/frameworks/knotifications/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    },
+    {
+      "name": "Phonon",
+      "version": "4.11.1",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

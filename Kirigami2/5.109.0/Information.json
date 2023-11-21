@@ -1,0 +1,21 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kirigami2",
+  "version": "5.109.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Set of QtQuick components for building adaptable UIs based on Qt Quick Controls 2",
+  "website": "https://api.kde.org/frameworks/kirigami/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}
