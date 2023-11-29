@@ -1,0 +1,26 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kuserfeedback",
+  "version": "1.2.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Framework for collecting user feedback for apps via telemetry and surveys",
+  "website": "https://invent.kde.org/frameworks/kuserfeedback",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Extra-Cmake-Modules",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}
