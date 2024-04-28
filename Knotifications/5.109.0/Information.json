@@ -23,6 +23,11 @@
       "name": "Phonon",
       "version": "4.11.1",
       "options": []
+    },
+    {
+      "name": "Kwindowsystem",
+      "version": "5.109.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
