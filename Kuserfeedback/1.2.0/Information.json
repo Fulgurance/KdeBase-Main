@@ -21,7 +21,15 @@
     }
   ],
   "kernelDependencies": [],
-  "options": [],
+  "options": [
+    {
+      "name": "Console",
+      "description": "Enable console interface support",
+      "active": false,
+      "dependencies": [],
+      "kernelDependencies": []
+    }
+  ],
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
