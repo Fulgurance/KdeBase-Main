@@ -18,6 +18,11 @@
       "name": "Qt",
       "version": "5.15.10",
       "options": []
+    },
+    {
+      "name": "Polkit-Kde-Agent-1",
+      "version": "5.27.7",
+      "options": []
     }
   ],
   "kernelDependencies": [],
