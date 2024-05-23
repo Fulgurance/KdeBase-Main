@@ -2,21 +2,21 @@
   "port": "KdeBase-Main",
   "name": "Kcompletion",
   "version": "5.109.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Powerful completion framework including completion-enabled lineedit and combobox",
   "website": "https://api.kde.org/frameworks/kcompletion/html/index.html",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "ProgrammingTools-Main",
       "name": "Extra-Cmake-Modules",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     },
     {
+      "port": "BaseLibraries-Main",
       "name": "Qt",
-      "version": "5.15.10",
+      "version": ">=5.15.10",
       "options": []
     }
   ],

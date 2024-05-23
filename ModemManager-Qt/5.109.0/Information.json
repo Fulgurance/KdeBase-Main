@@ -2,26 +2,27 @@
   "port": "KdeBase-Main",
   "name": "ModemManager-Qt",
   "version": "5.109.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Qt wrapper for ModemManager DBus API",
   "website": "https://api.kde.org/frameworks/modemmanager-qt/html/index.html",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "ProgrammingTools-Main",
       "name": "Extra-Cmake-Modules",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     },
     {
+      "port": "BaseLibraries-Main",
       "name": "Qt",
-      "version": "5.15.10",
+      "version": ">=5.15.10",
       "options": []
     },
     {
+      "port": "NetworkingTools-Main",
       "name": "ModemManager",
-      "version": "1.18.12",
+      "version": ">=1.18.12",
       "options": []
     }
   ],

@@ -2,21 +2,21 @@
   "port": "KdeBase-Main",
   "name": "Kguiaddons",
   "version": "5.109.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Utilities for graphical user interfaces",
   "website": "https://api.kde.org/frameworks/kguiaddons/html/index.html",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "ProgrammingTools-Main",
       "name": "Extra-Cmake-Modules",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     },
     {
+      "port": "BaseLibraries-Main",
       "name": "Qt",
-      "version": "5.15.10",
+      "version": ">=5.15.10",
       "options": []
     }
   ],

@@ -2,21 +2,21 @@
   "port": "KdeBase-Main",
   "name": "Qqc2-Desktop-Style",
   "version": "5.109.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Style for Qt Quick Controls 2 which uses QStyle to paint the controls in order to give them native look and feel",
   "website": "https://api.kde.org/frameworks/qqc2-desktop-style/html/index.html",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "ProgrammingTools-Main",
       "name": "Extra-Cmake-Modules",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     },
     {
+      "port": "BaseLibraries-Main",
       "name": "Qt",
-      "version": "5.15.10",
+      "version": ">=5.15.10",
       "options": []
     }
   ],

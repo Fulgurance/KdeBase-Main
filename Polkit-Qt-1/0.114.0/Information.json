@@ -2,14 +2,13 @@
   "port": "KdeBase-Main",
   "name": "Polkit-Qt-1",
   "version": "0.114.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Qt wrapper around Polkit-1 client libraries",
   "website": "https://github.com/KDE/polkit-qt-1",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "Security-Main",
       "name": "Polkit",
       "version": ">=123.0.0",
       "options": []
