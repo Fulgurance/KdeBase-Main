@@ -18,11 +18,11 @@
       "name": "Qt",
       "version": ">=5.15.10",
       "options": []
-    }
+    },
     {
       "port": "KdeBase-Main",
       "name": "Kio",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     }
   ],
