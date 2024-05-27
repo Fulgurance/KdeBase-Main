@@ -32,7 +32,7 @@
       "options": []
     },
     {
-      "port": "GraphicLibraries-Main",
+      "port": "GraphicsLibraries-Main",
       "name": "Giflib",
       "version": ">=5.2.1",
       "options": []
