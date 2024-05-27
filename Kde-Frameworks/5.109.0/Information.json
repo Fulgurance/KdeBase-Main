@@ -38,7 +38,7 @@
       "options": []
     },
     {
-      "port": "GraphicLibraries-Main",
+      "port": "GraphicsLibraries-Main",
       "name": "Libepoxy",
       "version": ">=1.5.10",
       "options": []
@@ -56,13 +56,13 @@
       "options": []
     },
     {
-      "port": "GraphicLibraries-Main",
+      "port": "GraphicsLibraries-Main",
       "name": "Libjpeg-Turbo",
       "version": ">=3.0.0",
       "options": []
     },
     {
-      "port": "GraphicLibraries-Main",
+      "port": "GraphicsLibraries-Main",
       "name": "Libpng",
       "version": ">=1.6.40",
       "options": []
