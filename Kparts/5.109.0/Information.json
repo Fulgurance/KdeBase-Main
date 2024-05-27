@@ -20,7 +20,7 @@
       "options": []
     },
     {
-      "port": "KdeSoftwares-Main",
+      "port": "KdeBase-Main",
       "name": "Kio",
       "version": ">=5.109.0",
       "options": []
