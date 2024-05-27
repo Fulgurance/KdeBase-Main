@@ -80,7 +80,7 @@
       "options": []
     },
     {
-      "port": "Kde-Frameworks",
+      "port": "GraphicsLibraries-Main",
       "name": "Qrencode",
       "version": ">=4.1.1",
       "options": []
