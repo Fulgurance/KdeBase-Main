@@ -18,6 +18,12 @@
       "name": "Qt",
       "version": ">=5.15.10",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kauth",
+      "version": ">=5.109.0",
+      "options": ["Polkit-Kde-Agent-1"]
     }
   ],
   "kernelDependencies": [],
@@ -25,5 +31,5 @@
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
-  "allowCodependencies": []
+  "allowCodependencies": ["@KdeBase-Main:Kauth"]
 }

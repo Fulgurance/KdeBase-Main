@@ -18,16 +18,25 @@
       "name": "Qt",
       "version": ">=5.15.10",
       "options": []
-    },
-    {
-      "port": "KdeBase-Main",
-      "name": "Polkit-Kde-Agent-1",
-      "version": ">=5.27.7",
-      "options": []
     }
   ],
   "kernelDependencies": [],
-  "options": [],
+  "options": [
+    {
+      "name": "Polkit-Kde-Agent-1",
+      "description": "Enable polkit-kde-agent-1 support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "KdeBase-Main",
+          "name": "Polkit-Kde-Agent-1",
+          "version": ">=5.27.7",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    }
+  ],
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
