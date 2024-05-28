@@ -9,7 +9,7 @@
   "dependencies": [
     {
       "port": "KdeBase-Main",
-      "name": "Kauth",
+      "name": "Kconfigwidgets",
       "version": ">=5.109.0",
       "options": []
     }
