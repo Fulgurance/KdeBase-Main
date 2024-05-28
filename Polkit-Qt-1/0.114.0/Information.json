@@ -12,7 +12,13 @@
       "name": "Polkit",
       "version": ">=123.0.0",
       "options": []
-    }
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Qt",
+      "version": ">=5.15.10",
+      "options": []
+    },
   ],
   "kernelDependencies": [],
   "options": [],
