@@ -25,5 +25,5 @@
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
-  "allowCodependencies": ["@KdeBase-Main:Kauth"]
+  "allowCodependencies": []
 }
