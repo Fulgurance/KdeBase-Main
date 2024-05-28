@@ -18,12 +18,6 @@
       "name": "Qt",
       "version": ">=5.15.10",
       "options": []
-    },
-    {
-      "port": "KdeBase-Main",
-      "name": "Kauth",
-      "version": ">=5.109.0",
-      "options": []
     }
   ],
   "kernelDependencies": [],
