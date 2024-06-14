@@ -4,19 +4,22 @@ class Target < ISM::Software
         @buildDirectory = true
         super
 
-        fileReplaceTextAtLineNumber("#{mainWorkDirectoryPath}/src/declarativeimports/core/CMakeLists.txt","${EGL_TARGET}","GL EGL",62)
+        fileReplaceTextAtLineNumber(path:       "#{mainWorkDirectoryPath}/src/declarativeimports/core/CMakeLists.txt",
+                                    text:       "${EGL_TARGET}",
+                                    newText:    "GL EGL",
+                                    lineNumber: 62)
     end
     
     def configure
         super
 
-        runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
-                            "-DCMAKE_PREFIX_PATH=/usr",
-                            "-DCMAKE_BUILD_TYPE=Release",
-                            "-DBUILD_TESTING=OFF",
-                            "-Wno-dev",
-                            ".."],
-                            buildDirectoryPath)
+        runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr    \
+                                    -DCMAKE_PREFIX_PATH=/usr        \
+                                    -DCMAKE_BUILD_TYPE=Release      \
+                                    -DBUILD_TESTING=OFF             \
+                                    -Wno-dev                        \
+                                    ..",
+                        path:       buildDirectoryPath)
     end
     
     def build
@@ -28,7 +31,8 @@ class Target < ISM::Software
     def prepareInstallation
         super
 
-        makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
+        makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install",
+                    path:       buildDirectoryPath)
     end
 
     def install
