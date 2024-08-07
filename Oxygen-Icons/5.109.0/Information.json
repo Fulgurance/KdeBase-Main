@@ -1,6 +1,6 @@
 {
   "port": "KdeBase-Main",
-  "name": "Oxygen-Icons5",
+  "name": "Oxygen-Icons",
   "version": "5.109.0",
   "architectures": ["x86_64"],
   "description": "Oxygen icon theme",
