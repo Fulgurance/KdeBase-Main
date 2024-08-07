@@ -477,7 +477,7 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Oxygen-Icons5",
+      "name": "Oxygen-Icons",
       "version": ">=5.109.0",
       "options": []
     },
