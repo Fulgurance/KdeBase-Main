@@ -10,7 +10,7 @@
     {
       "port": "ProgrammingTools-Main",
       "name": "Extra-Cmake-Modules",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
@@ -22,13 +22,13 @@
     {
       "port": "KdeBase-Main",
       "name": "Kwindowsystem",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kcoreaddons",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     }
   ],

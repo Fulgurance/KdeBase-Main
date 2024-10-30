@@ -16,7 +16,7 @@
     {
       "port": "ProgrammingTools-Main",
       "name": "Extra-Cmake-Modules",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
@@ -112,475 +112,475 @@
     {
       "port": "KdeBase-Main",
       "name": "Attica",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kapidox",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Karchive",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kcodecs",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kconfig",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kcoreaddons",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kdbusaddons",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kdnssd",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kguiaddons",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Ki18n",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kidletime",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kimageformats",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kitemmodels",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kitemviews",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kplotting",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kwidgetaddons",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kwindowsystem",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Solid",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Sonnet",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Threadweaver",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kauth",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kcompletion",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kcrash",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kdoctools",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kpty",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kunitconversion",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kconfigwidgets",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kservice",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kglobalaccel",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kpackage",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kdesu",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kemoticons",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kiconthemes",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kjobwidgets",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Knotifications",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Ktextwidgets",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kxmlgui",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kbookmarks",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kwallet",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kded",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kio",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kdeclarative",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kcmutils",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kirigami2",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Syndication",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Knewstuff",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Frameworkintegration",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kinit",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kparts",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kactivities",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Syntax-Highlighting",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Ktexteditor",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kdesignerplugin",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kwayland",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Plasma-Framework",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kpeople",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kxmlrpcclient",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Bluez-Qt",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kfilemetadata",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Baloo",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Breeze-Icons",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Oxygen-Icons",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kactivities-Stats",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Krunner",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Prison",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Qqc2-Desktop-Style",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kjs",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kdelibs4support",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Khtml",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kjsembed",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kmediaplayer",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kross",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kholidays",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Purpose",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kcalendarcore",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kcontacts",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kquickcharts",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Knotifyconfig",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeBase-Main",
       "name": "Kdav",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     }
   ],
