@@ -1,0 +1,41 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Frameworkintegration",
+  "version": "6.7.0",
+  "architectures": ["x86_64"],
+  "description": "Integration of Qt application with KDE workspaces",
+  "website": "https://api.kde.org/frameworks/frameworkintegration/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Knotifications",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Knewstuff",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

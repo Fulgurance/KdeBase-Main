@@ -1,0 +1,41 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kcrash",
+  "version": "6.7.0",
+  "architectures": ["x86_64"],
+  "description": "Graceful handling of application crashes",
+  "website": "https://api.kde.org/frameworks/kcrash/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": ["Xcb"]
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kwindowsystem",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kcoreaddons",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

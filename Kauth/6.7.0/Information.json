@@ -1,0 +1,44 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kauth",
+  "version": "6.7.0",
+  "architectures": ["x86_64"],
+  "description": "Execute actions as privileged user",
+  "website": "https://api.kde.org/frameworks/kauth/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [
+    {
+      "name": "Polkit-Kde-Agent-1",
+      "description": "Enable polkit-kde-agent-1 support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "KdeBase-Main",
+          "name": "Polkit-Kde-Agent-1",
+          "version": ">=6.0.0 ~ <7.0.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    }
+  ],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": ["@KdeBase-Main:Kconfigwidgets","@KdeBase-Main:Polkit-Kde-Agent-1","@KdeBase-Main:Kiconthemes"]
+}

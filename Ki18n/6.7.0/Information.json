@@ -1,0 +1,29 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Ki18n",
+  "version": "6.7.0",
+  "architectures": ["x86_64"],
+  "description": "Libraries for Gettext-based text internationalization and data about countries and timezones",
+  "website": "https://api.kde.org/frameworks/ki18n/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

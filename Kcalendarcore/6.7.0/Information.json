@@ -1,0 +1,29 @@
+{
+  "port": "KdeBase-Main",
+  "name": "Kcalendarcore",
+  "version": "6.7.0",
+  "architectures": ["x86_64"],
+  "description": "Library provides access to and handling of calendar data",
+  "website": "https://api.kde.org/frameworks/kcalendarcore/html/index.html",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
