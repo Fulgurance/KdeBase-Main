@@ -417,12 +417,6 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kxmlrpcclient",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeBase-Main",
       "name": "Bluez-Qt",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
