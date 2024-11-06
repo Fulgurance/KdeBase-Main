@@ -393,12 +393,6 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kactivities",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeBase-Main",
       "name": "Syntax-Highlighting",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
@@ -466,12 +460,6 @@
     {
       "port": "KdeBase-Main",
       "name": "Oxygen-Icons",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeBase-Main",
-      "name": "Kactivities-Stats",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     },
