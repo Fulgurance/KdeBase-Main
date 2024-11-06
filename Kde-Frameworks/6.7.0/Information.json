@@ -297,12 +297,6 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kemoticons",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeBase-Main",
       "name": "Kiconthemes",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
