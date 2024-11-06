@@ -411,12 +411,6 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Plasma-Framework",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeBase-Main",
       "name": "Kpeople",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
