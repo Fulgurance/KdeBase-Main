@@ -24,6 +24,12 @@
       "name": "Kcoreaddons",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": ["Xcb"]
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Knotifications",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
