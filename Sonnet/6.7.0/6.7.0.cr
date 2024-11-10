@@ -14,6 +14,7 @@ class Target < ISM::Software
                                     -DCMAKE_SKIP_INSTALL_RPATH=ON       \
                                     -DCMAKE_BUILD_TYPE=Release          \
                                     -DBUILD_TESTING=OFF                 \
+                                    -DSONNET_NO_BACKENDS=ON             \
                                     -Wno-dev                            \
                                     ..",
                         path:       buildDirectoryPath)
