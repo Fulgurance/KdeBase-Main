@@ -14,8 +14,8 @@
       "options": []
     },
     {
-      "port": "BaseLibraries-Main",
-      "name": "Qt",
+      "port": "KdeBase-Main",
+      "name": "Kcontacts",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
