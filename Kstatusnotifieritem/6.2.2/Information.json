@@ -1,0 +1,29 @@
+{
+  "port": "Kde-Frameworks-Main",
+  "name": "Kstatusnotifieritem",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "Implementation of Status Notifier Items",
+  "website": "https://invent.kde.org/frameworks/kstatusnotifieritem",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
