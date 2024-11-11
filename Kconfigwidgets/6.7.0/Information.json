@@ -27,7 +27,7 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kcolortheme",
+      "name": "Kcolorscheme",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
