@@ -1,10 +1,10 @@
 {
   "port": "KdeBase-Main",
-  "name": "Kcoreaddons",
+  "name": "Kcolorscheme",
   "version": "6.7.0",
   "architectures": ["x86_64"],
-  "description": "Qt addon library with a collection of non-GUI utilities",
-  "website": "https://api.kde.org/frameworks/kcoreaddons/html/index.html",
+  "description": "Classes to read and interact with KColorScheme",
+  "website": "https://invent.kde.org/frameworks/kcolorscheme",
   "installedFiles": [],
   "dependencies": [
     {
