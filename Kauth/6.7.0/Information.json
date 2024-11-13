@@ -25,7 +25,7 @@
     {
       "name": "Polkit-Kde-Agent-1",
       "description": "Enable polkit-kde-agent-1 support",
-      "active": false,
+      "active": true,
       "dependencies": [
         {
           "port": "KdeBase-Main",
