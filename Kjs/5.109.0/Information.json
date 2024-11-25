@@ -14,13 +14,13 @@
       "options": []
     },
     {
-      "port": "BaseLibraries-Main",
-      "name": "Qt",
+      "port": "QtLibraries-Main",
+      "name": "Qtbase",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
-      "port": "BaseLibraries-Main",
+      "port": "QtLibraries-Main",
       "name": "Pcre",
       "version": ">=8.45.0",
       "options": []
