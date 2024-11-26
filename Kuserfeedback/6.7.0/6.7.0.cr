@@ -29,11 +29,6 @@ class Target < ISM::Software
 
         makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install",
                     path:       buildDirectoryPath)
-
-        if !option("Console")
-            deleteFile("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/bin/UserFeedbackConsole")
-            deleteFile("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/share/applications/org.kde.kuserfeedback-console.desktop")
-        end
     end
 
     def install
