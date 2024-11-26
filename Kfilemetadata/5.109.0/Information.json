@@ -8,14 +8,8 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "ProgrammingTools-Main",
-      "name": "Extra-Cmake-Modules",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
-    },
-    {
-      "port": "QtLibraries-Main",
-      "name": "Qtbase",
+      "port": "KdeBase-Main",
+      "name": "Ki18n",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     }
