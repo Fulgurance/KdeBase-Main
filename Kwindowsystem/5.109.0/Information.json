@@ -18,6 +18,12 @@
       "name": "Qtdeclarative",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "QtLibraries-Main",
+      "name": "Qtwayland",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
