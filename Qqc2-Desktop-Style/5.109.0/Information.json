@@ -8,8 +8,8 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "ProgrammingTools-Main",
-      "name": "Extra-Cmake-Modules",
+      "port": "KdeBase-Main",
+      "name": "Kirigami",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
