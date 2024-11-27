@@ -15,6 +15,12 @@
     },
     {
       "port": "QtLibraries-Main",
+      "name": "Qtbase",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": ["Xcb"]
+    },
+    {
+      "port": "QtLibraries-Main",
       "name": "Qttools",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []

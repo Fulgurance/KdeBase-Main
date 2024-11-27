@@ -17,7 +17,7 @@
       "port": "QtLibraries-Main",
       "name": "Qtbase",
       "version": ">=5.0.0 ~ <6.0.0",
-      "options": ["Openssl"]
+      "options": ["Openssl","Xcb"]
     },
     {
       "port": "KdeBase-Main",
