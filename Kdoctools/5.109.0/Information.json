@@ -18,6 +18,12 @@
       "name": "Ki18n",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Uri",
+      "version": ">=5.25.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
