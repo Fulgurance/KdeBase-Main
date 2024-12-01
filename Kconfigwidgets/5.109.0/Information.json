@@ -24,6 +24,12 @@
       "name": "Kauth",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": ["Polkit-Kde-Agent-1"]
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kcodecs",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
