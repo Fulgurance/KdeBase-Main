@@ -36,6 +36,12 @@
       "name": "Kio",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kfilemetadata",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
