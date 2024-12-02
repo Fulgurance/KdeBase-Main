@@ -12,6 +12,7 @@ class Target < ISM::Software
                                     -DCMAKE_PREFIX_PATH=/usr        \
                                     -DCMAKE_BUILD_TYPE=Release      \
                                     -DBUILD_TESTING=OFF             \
+                                    -DPython_EXECUTABLE=/usr/bin/python3.12 \
                                     -DBINARY_ICONS_RESOURCE=ON      \
                                     -DSKIP_INSTALL_ICONS=OFF        \
                                     -Wno-dev                        \
