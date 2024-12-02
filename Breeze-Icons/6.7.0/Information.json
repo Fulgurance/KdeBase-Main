@@ -23,7 +23,7 @@
       "port": "BaseLibraries-Main",
       "name": "Lxml",
       "version": ">=5.3.0",
-      "options": []
+      "options": ["Python-3.12"]
     }
   ],
   "kernelDependencies": [],
