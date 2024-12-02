@@ -14,6 +14,8 @@ class Target < ISM::Software
                                     -DCMAKE_SKIP_INSTALL_RPATH=ON       \
                                     -DCMAKE_BUILD_TYPE=Release          \
                                     -DBUILD_TESTING=OFF                 \
+                                    -DBINARY_ICONS_RESOURCE=ON          \
+                                    -DSKIP_INSTALL_ICONS=OFF            \
                                     -Wno-dev                            \
                                     ..",
                         path:       buildDirectoryPath)
