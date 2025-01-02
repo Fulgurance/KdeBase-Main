@@ -24,6 +24,12 @@
       "name": "Kcompletion",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Sonnet",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
