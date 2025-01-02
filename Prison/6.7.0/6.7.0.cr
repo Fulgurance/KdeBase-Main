@@ -12,6 +12,7 @@ class Target < ISM::Software
                                     -DCMAKE_PREFIX_PATH=/usr        \
                                     -DCMAKE_BUILD_TYPE=Release      \
                                     -DBUILD_TESTING=OFF             \
+                                    -DBUILD_QCH=ON                  \
                                     -Wno-dev                        \
                                     ..",
                         path:       buildDirectoryPath)
