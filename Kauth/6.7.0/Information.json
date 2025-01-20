@@ -40,5 +40,5 @@
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
-  "allowCodependencies": ["@KdeBase-Main:Kconfigwidgets","@KdeBase-Main:Polkit-Kde-Agent-1","@KdeBase-Main:Kiconthemes"]
+  "allowCodependencies": []
 }

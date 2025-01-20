@@ -21,12 +21,6 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kauth",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": ["Polkit-Kde-Agent-1"]
-    },
-    {
-      "port": "KdeBase-Main",
       "name": "Kcolorscheme",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
