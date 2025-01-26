@@ -17,7 +17,7 @@
       "port": "QtLibraries-Main",
       "name": "Qtbase",
       "version": ">=6.0.0 ~ <7.0.0",
-      "options": ["Xcb"]
+      "options": ["Libxkbcommon"]
     },
     {
       "port": "QtLibraries-Main",
