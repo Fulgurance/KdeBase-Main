@@ -30,6 +30,12 @@
       "name": "Kconfigwidgets",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kitemviews",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
