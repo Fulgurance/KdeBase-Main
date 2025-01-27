@@ -30,6 +30,12 @@
       "name": "Kwindowsystem",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "MultimediaLibraries-Main",
+      "name": "Libcanberra",
+      "version": ">=0.30.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
