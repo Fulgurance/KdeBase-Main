@@ -20,7 +20,7 @@
       "options": []
     },
     {
-      "port": "NetworkingTools-Main",
+      "port": "NetworkingSoftwares-Main",
       "name": "ModemManager",
       "version": ">=1.18.12",
       "options": []

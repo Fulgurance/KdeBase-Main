@@ -20,7 +20,7 @@
       "options": []
     },
     {
-      "port": "NetworkingTools-Main",
+      "port": "NetworkingSoftwares-Main",
       "name": "NetworkManager",
       "version": ">=1.44.0",
       "options": []
