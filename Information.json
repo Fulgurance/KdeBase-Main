@@ -1,0 +1,7 @@
+{
+  "name": "KdeBase-Main",
+  "url": "https://github.com/Fulgurance/KdeBase-Main",
+  "publicKeyUrl": "http://www.slashlinux.io/keyring/Fulgurance.key",
+  "type": "Git",
+  "description": "Port that contain all KDE frameworks"
+}
