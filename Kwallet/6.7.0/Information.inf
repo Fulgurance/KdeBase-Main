@@ -1,0 +1,23 @@
+PORT
+    KdeBase-Main
+NAME
+    Kwallet
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Safe desktop-wide storage for passwords
+WEBSITE
+    https://api.kde.org/frameworks/kwallet/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knotifications>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kservice>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfigwidgets>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

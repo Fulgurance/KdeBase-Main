@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    Breeze-Icons
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Freedesktop.org compatible icon theme
+WEBSITE
+    https://api.kde.org/frameworks/breeze-icons/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+        @BaseLibraries-Main:Lxml>=5.3.0(Python-3.12)
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

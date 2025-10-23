@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    Kpackage
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Installation and loading of additional content packages
+WEBSITE
+    https://api.kde.org/frameworks/kpackage/html/index.html
+DEPENDENCIES
+        @KdeBase-Main:Karchive>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdoctools>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

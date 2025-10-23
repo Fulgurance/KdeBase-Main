@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    NetworkManager-Qt
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Qt wrapper for NetworkManager DBus API
+WEBSITE
+    https://api.kde.org/frameworks/networkmanager-qt/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qtdeclarative>=5.0.0 ~ <6.0.0
+        @NetworkingSoftwares-Main:NetworkManager>=1.44.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    Kmediaplayer
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Interface for media player KParts
+WEBSITE
+    https://api.kde.org/frameworks/kjsembed/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kparts>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

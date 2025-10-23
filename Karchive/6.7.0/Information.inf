@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Karchive
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Reading, creating, and manipulating file archives
+WEBSITE
+    https://api.kde.org/frameworks/karchive/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

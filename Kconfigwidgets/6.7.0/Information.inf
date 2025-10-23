@@ -1,0 +1,23 @@
+PORT
+    KdeBase-Main
+NAME
+    Kconfigwidgets
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Widgets for configuration dialogs
+WEBSITE
+    https://api.kde.org/frameworks/kconfigwidgets/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcolorscheme>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcodecs>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kwidgetsaddons>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Kpeople
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Provides access to all contacts and aggregates them by person
+WEBSITE
+    https://api.kde.org/frameworks/kpeople/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcontacts>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

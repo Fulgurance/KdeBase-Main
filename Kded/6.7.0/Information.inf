@@ -1,0 +1,23 @@
+PORT
+    KdeBase-Main
+NAME
+    Kded
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Central daemon of KDE work spaces
+WEBSITE
+    https://api.kde.org/frameworks/kded/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcrash>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kservice>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdbusaddons>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

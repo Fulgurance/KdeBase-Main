@@ -1,0 +1,19 @@
+PORT
+    KdeBase-Main
+NAME
+    Kstatusnotifieritem
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Implementation of Status Notifier Items
+WEBSITE
+    https://invent.kde.org/frameworks/kstatusnotifieritem
+DEPENDENCIES
+        @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

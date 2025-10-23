@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Kcolorscheme
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Classes to read and interact with KColorScheme
+WEBSITE
+    https://invent.kde.org/frameworks/kcolorscheme
+DEPENDENCIES
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kguiaddons>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

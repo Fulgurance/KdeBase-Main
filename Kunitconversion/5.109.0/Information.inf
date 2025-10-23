@@ -1,0 +1,19 @@
+PORT
+    KdeBase-Main
+NAME
+    Kunitconversion
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Converting physical units
+WEBSITE
+    https://api.kde.org/frameworks/kunitconversion/html/index.html
+DEPENDENCIES
+        @KdeBase-Main:Ki18n>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

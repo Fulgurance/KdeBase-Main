@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Frameworkintegration
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Integration of Qt application with KDE workspaces
+WEBSITE
+    https://api.kde.org/frameworks/frameworkintegration/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Knotifications>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Knewstuff>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

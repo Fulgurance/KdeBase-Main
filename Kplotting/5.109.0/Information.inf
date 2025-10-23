@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Kplotting
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Data plotting
+WEBSITE
+    https://api.kde.org/frameworks/kplotting/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qttools>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

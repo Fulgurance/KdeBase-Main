@@ -1,0 +1,19 @@
+PORT
+    KdeBase-Main
+NAME
+    Kfilemetadata
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Simple library for extracting the text and metadata from a number of different files
+WEBSITE
+    https://api.kde.org/frameworks/kfilemetadata/html/index.html
+DEPENDENCIES
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

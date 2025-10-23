@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Knotifications
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Cross-platform library for creating popup notifications
+WEBSITE
+    https://api.kde.org/frameworks/knotifications/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+        @MultimediaLibraries-Main:Phonon>=4.11.1
+        @KdeBase-Main:Kwindowsystem>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

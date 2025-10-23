@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Khtml
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Web rendering engine based on the KParts technology and using KJS for JavaScript support
+WEBSITE
+    https://api.kde.org/frameworks/khtml/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kio>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Knotifications>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

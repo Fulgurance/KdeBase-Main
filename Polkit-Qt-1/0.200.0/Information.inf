@@ -1,0 +1,27 @@
+PORT
+    KdeBase-Main
+NAME
+    Polkit-Qt-1
+VERSION
+    0.200.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Qt wrapper around Polkit-1 client libraries
+WEBSITE
+    https://github.com/KDE/polkit-qt-1
+DEPENDENCIES
+        @SecuritySoftwares-Main:Polkit>=123.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+    name: Qt5
+    description: Enable qt5 support
+    active: false
+    dependencies:
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+    kernelDependencies:
+
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

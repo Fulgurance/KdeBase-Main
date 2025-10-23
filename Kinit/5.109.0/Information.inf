@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Kinit
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Helper library to speed up start of applications on KDE workspaces
+WEBSITE
+    https://api.kde.org/frameworks/kinit/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kservice>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kio>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

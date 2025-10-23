@@ -1,0 +1,19 @@
+PORT
+    KdeBase-Main
+NAME
+    Kpty
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Interfacing with pseudo terminal devices
+WEBSITE
+    https://api.kde.org/frameworks/kpty/html/index.html
+DEPENDENCIES
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

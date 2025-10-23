@@ -1,0 +1,19 @@
+PORT
+    KdeBase-Main
+NAME
+    Syndication
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Parser library for RSS and Atom feeds
+WEBSITE
+    https://api.kde.org/frameworks/syndication/html/index.html
+DEPENDENCIES
+        @KdeBase-Main:Kcodecs>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

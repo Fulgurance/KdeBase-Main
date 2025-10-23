@@ -1,0 +1,23 @@
+PORT
+    KdeBase-Main
+NAME
+    Kxmlgui
+VERSION
+    5.109.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Framework for managing menu and toolbar actions
+WEBSITE
+    https://api.kde.org/frameworks/kxmlgui/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kglobalaccel>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kconfigwidgets>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kitemviews>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

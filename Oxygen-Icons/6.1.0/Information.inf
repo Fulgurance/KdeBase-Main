@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Oxygen-Icons
+VERSION
+    6.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Oxygen icon theme
+WEBSITE
+    https://api.kde.org/frameworks/oxygen-icons5/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Kcalendarcore
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Library provides access to and handling of calendar data
+WEBSITE
+    https://api.kde.org/frameworks/kcalendarcore/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

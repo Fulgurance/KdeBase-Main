@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    ModemManager-Qt
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Qt wrapper for ModemManager DBus API
+WEBSITE
+    https://api.kde.org/frameworks/modemmanager-qt/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @NetworkingSoftwares-Main:ModemManager>=1.18.12
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,27 @@
+PORT
+    KdeBase-Main
+NAME
+    Kauth
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Execute actions as privileged user
+WEBSITE
+    https://api.kde.org/frameworks/kauth/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+    name: Polkit-Kde-Agent-1
+    description: Enable polkit-kde-agent-1 support
+    active: true
+    dependencies:
+        @KdeBase-Main:Polkit-Kde-Agent-1>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

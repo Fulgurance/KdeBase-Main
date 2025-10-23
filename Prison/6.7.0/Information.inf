@@ -1,0 +1,24 @@
+PORT
+    KdeBase-Main
+NAME
+    Prison
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Qt-based barcode abstraction layer/library and provides uniform access to generation of barcodes with data
+WEBSITE
+    https://api.kde.org/frameworks/prison/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtmultimedia>=6.0.0 ~ <7.0.0
+        @GraphicsLibraries-Main:Qrencode>=4.1.1
+        @GraphicsLibraries-Main:Zxing-Cpp>=2.3.0
+        @BaseLibraries-Main:Libdmtx>=0.7.7
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

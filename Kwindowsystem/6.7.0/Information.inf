@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Kwindowsystem
+VERSION
+    6.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Access to the windowing system
+WEBSITE
+    https://api.kde.org/frameworks/kwindowsystem/html/index.html
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtwayland>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Plasma-Wayland-Protocols>=1.10.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
