@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Qt-style API to interact with the wayland-client and wayland-server API
 WEBSITE
-    https://api.kde.org/frameworks/kwayland/html/index.html
+    https://github.com/KDE/kwayland
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtwayland>=6.0.0 ~ <7.0.0

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     String encoding library
 WEBSITE
-    https://api.kde.org/frameworks/kcodecs/html/index.html
+    https://github.com/KDE/kcodecs
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0

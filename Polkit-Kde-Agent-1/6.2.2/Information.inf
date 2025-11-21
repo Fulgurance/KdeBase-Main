@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Daemon providing a Polkit authentication UI for Plasma
 WEBSITE
-    https://invent.kde.org/plasma/polkit-kde-agent-1
+    https://github.com/KDE/polkit-kde-agent-1
 DEPENDENCIES
         @KdeBase-Main:Polkit-Qt-1>=0.114.0
         @KdeBase-Main:Kiconthemes>=6.0.0 ~ <7.0.0

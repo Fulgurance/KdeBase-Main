@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Convenience classes for D-Bus
 WEBSITE
-    https://api.kde.org/frameworks/kdbusaddons/html/index.html
+    https://github.com/KDE/kdbusaddons
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0(Xcb)

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plugin framework for user interface components
 WEBSITE
-    https://api.kde.org/frameworks/kparts/html/index.html
+    https://github.com/KDE/kparts
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Kdnssd
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Network service discovery using Zeroconf
+WEBSITE
+    https://github.com/KDE/kdnssd
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

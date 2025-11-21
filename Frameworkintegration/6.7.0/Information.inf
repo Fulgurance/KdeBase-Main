@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Integration of Qt application with KDE workspaces
 WEBSITE
-    https://api.kde.org/frameworks/frameworkintegration/html/index.html
+    https://github.com/KDE/frameworkintegration
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

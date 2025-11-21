@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Full text editor component
 WEBSITE
-    https://api.kde.org/frameworks/ktexteditor/html/index.html
+    https://github.com/KDE/ktexteditor
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

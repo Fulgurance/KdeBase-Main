@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plasma-specific protocols for Wayland
 WEBSITE
-    https://invent.kde.org/libraries/plasma-wayland-protocols
+    https://github.com/KDE/plasma-wayland-protocols
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES

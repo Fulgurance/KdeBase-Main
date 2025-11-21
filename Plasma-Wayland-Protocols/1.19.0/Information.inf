@@ -1,0 +1,19 @@
+PORT
+    KdeBase-Main
+NAME
+    Plasma-Wayland-Protocols
+VERSION
+    1.19.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Plasma-specific protocols for Wayland
+WEBSITE
+    https://github.com/KDE/plasma-wayland-protocols
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Frameworkintegration
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Integration of Qt application with KDE workspaces
+WEBSITE
+    https://github.com/KDE/frameworkintegration
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knotifications>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knewstuff>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

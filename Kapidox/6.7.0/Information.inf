@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Scripts and data for building API documentation
 WEBSITE
-    https://api.kde.org/frameworks/kapidox/html/index.html
+    https://github.com/KDE/kapidox
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES

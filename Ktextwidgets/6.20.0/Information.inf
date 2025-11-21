@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Ktextwidgets
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Text editing widgets
+WEBSITE
+    https://github.com/KDE/ktextwidgets
+DEPENDENCIES
+        @KdeBase-Main:Kconfigwidgets>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtspeech>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcompletion>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Sonnet>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

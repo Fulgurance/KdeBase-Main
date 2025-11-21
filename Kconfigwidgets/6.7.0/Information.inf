@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Widgets for configuration dialogs
 WEBSITE
-    https://api.kde.org/frameworks/kconfigwidgets/html/index.html
+    https://github.com/KDE/kconfigwidgets
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

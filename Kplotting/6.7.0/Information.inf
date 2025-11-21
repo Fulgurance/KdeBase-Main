@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Data plotting
 WEBSITE
-    https://api.kde.org/frameworks/kplotting/html/index.html
+    https://github.com/KDE/kplotting
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0

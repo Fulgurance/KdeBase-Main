@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Graceful handling of application crashes
 WEBSITE
-    https://api.kde.org/frameworks/kcrash/html/index.html
+    https://github.com/KDE/kcrash
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0(Xcb)

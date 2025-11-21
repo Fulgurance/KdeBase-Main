@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Ksvg
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Components for handling SVGs
+WEBSITE
+    https://github.com/KDE/ksvg
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtsvg>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcolorscheme>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

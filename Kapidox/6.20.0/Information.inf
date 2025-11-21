@@ -1,0 +1,19 @@
+PORT
+    KdeBase-Main
+NAME
+    Kapidox
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Scripts and data for building API documentation
+WEBSITE
+    https://github.com/KDE/kapidox
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

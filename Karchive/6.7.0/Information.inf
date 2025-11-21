@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Reading, creating, and manipulating file archives
 WEBSITE
-    https://api.kde.org/frameworks/karchive/html/index.html
+    https://github.com/KDE/karchive
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0

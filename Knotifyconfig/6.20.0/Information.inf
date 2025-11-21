@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    Knotifyconfig
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Configuration dialog for desktop notifications
+WEBSITE
+    https://github.com/KDE/knotifyconfig
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kio>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

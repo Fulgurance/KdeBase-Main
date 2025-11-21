@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Kjobwidgets
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Widgets for showing progress of asynchronous jobs
+WEBSITE
+    https://github.com/KDE/kjobwidgets
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0(Xcb)
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knotifications>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Style for Qt Quick Controls 2 which uses QStyle to paint the controls in order to give them native look and feel
 WEBSITE
-    https://api.kde.org/frameworks/qqc2-desktop-style/html/index.html
+    https://github.com/KDE/qqc2-desktop-style
 DEPENDENCIES
         @KdeBase-Main:Kirigami>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0

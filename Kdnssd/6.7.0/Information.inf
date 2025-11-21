@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Network service discovery using Zeroconf
 WEBSITE
-    https://api.kde.org/frameworks/kddnssd/html/index.html
+    https://github.com/KDE/kdnssd
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0

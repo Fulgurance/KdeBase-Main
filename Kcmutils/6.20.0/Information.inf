@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    Kcmutils
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Utilities for KDE System Settings modules
+WEBSITE
+    https://github.com/KDE/kcmutils
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdeclarative>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

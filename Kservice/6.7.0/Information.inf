@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plugin framework for desktop services
 WEBSITE
-    https://api.kde.org/frameworks/kservice/html/index.html
+    https://github.com/KDE/kservice
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

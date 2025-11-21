@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Offers available actions for a specific purpose
 WEBSITE
-    https://api.kde.org/frameworks/purpose/html/index.html
+    https://github.com/KDE/purpose
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

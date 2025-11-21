@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Central daemon of KDE work spaces
 WEBSITE
-    https://api.kde.org/frameworks/kded/html/index.html
+    https://github.com/KDE/kded
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

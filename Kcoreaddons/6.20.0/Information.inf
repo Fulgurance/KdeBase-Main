@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    Kcoreaddons
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Qt addon library with a collection of non-GUI utilities
+WEBSITE
+    https://github.com/KDE/kcoreaddons
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

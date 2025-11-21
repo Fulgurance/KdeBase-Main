@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plugins to allow QImage to support extra file formats
 WEBSITE
-    https://api.kde.org/frameworks/kimageformats/html/index.html
+    https://github.com/KDE/kimageformats
 DEPENDENCIES
         @KdeBase-Main:Karchive>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES

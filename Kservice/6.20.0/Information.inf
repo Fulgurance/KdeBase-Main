@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Kservice
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Plugin framework for desktop services
+WEBSITE
+    https://github.com/KDE/kservice
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcrash>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdoctools>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Kguiaddons
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Utilities for graphical user interfaces
+WEBSITE
+    https://github.com/KDE/kguiaddons
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtwayland>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Plasma-Wayland-Protocols>=1.10.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

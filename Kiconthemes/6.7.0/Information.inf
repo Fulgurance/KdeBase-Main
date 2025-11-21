@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Icon GUI utilities
 WEBSITE
-    https://api.kde.org/frameworks/kiconthemes/html/index.html
+    https://github.com/KDE/kiconthemes
 DEPENDENCIES
         @KdeBase-Main:Kconfigwidgets>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Breeze-Icons>=6.0.0 ~ <7.0.0

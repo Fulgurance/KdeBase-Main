@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Syntax highlighting engine for Kate syntax definitions
 WEBSITE
-    https://api.kde.org/frameworks/syntax-highlighting/html/index.html
+    https://github.com/KDE/syntax-highlighting
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Oxygen icon theme
 WEBSITE
-    https://api.kde.org/frameworks/oxygen-icons5/html/index.html
+    https://github.com/KDE/oxygen-icons
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

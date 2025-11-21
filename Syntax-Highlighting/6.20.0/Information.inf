@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    Syntax-Highlighting
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Syntax highlighting engine for Kate syntax definitions
+WEBSITE
+    https://github.com/KDE/syntax-highlighting
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Polkit-Kde-Agent-1
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Daemon providing a Polkit authentication UI for Plasma
+WEBSITE
+    https://github.com/KDE/polkit-kde-agent-1
+DEPENDENCIES
+        @KdeBase-Main:Polkit-Qt-1>=0.114.0
+        @KdeBase-Main:Kiconthemes>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

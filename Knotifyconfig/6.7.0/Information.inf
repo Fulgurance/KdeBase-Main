@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Configuration dialog for desktop notifications
 WEBSITE
-    https://api.kde.org/frameworks/knotifyconfig/html/index.html
+    https://github.com/KDE/knotifyconfig
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

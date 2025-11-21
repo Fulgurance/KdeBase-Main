@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Freedesktop.org compatible icon theme
 WEBSITE
-    https://api.kde.org/frameworks/breeze-icons/html/index.html
+    https://github.com/KDE/breeze-icons
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

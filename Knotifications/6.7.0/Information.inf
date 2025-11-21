@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Cross-platform library for creating popup notifications
 WEBSITE
-    https://api.kde.org/frameworks/knotifications/html/index.html
+    https://github.com/KDE/knotifications
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

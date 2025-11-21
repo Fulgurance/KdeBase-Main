@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     DAV protocol implementation with KJobs
 WEBSITE
-    https://api.kde.org/frameworks/kdav/html/index.html
+    https://github.com/KDE/kdav
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

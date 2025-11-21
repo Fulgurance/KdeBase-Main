@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Implementation of Status Notifier Items
 WEBSITE
-    https://invent.kde.org/frameworks/kstatusnotifieritem
+    https://github.com/KDE/kstatusnotifieritem
 DEPENDENCIES
         @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES

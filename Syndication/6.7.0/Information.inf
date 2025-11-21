@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Parser library for RSS and Atom feeds
 WEBSITE
-    https://api.kde.org/frameworks/syndication/html/index.html
+    https://github.com/KDE/syndication
 DEPENDENCIES
         @KdeBase-Main:Kcodecs>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES

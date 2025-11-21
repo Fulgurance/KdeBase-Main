@@ -1,0 +1,21 @@
+PORT
+    KdeBase-Main
+NAME
+    Kbookmarks
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Bookmarks management library
+WEBSITE
+    https://github.com/KDE/kbookmarks
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kxmlgui>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

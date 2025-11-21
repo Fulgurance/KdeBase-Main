@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Framework for collecting user feedback for apps via telemetry and surveys
 WEBSITE
-    https://invent.kde.org/frameworks/kuserfeedback
+    https://github.com/KDE/kuserfeedback
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0

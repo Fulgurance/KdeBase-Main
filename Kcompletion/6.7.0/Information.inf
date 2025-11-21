@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Powerful completion framework including completion-enabled lineedit and combobox
 WEBSITE
-    https://api.kde.org/frameworks/kcompletion/html/index.html
+    https://github.com/KDE/kcompletion
 DEPENDENCIES
         @KdeBase-Main:Kcodecs>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0

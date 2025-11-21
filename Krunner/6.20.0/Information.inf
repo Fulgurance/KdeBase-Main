@@ -1,0 +1,20 @@
+PORT
+    KdeBase-Main
+NAME
+    Krunner
+VERSION
+    6.20.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Framework for Plasma runners
+WEBSITE
+    https://github.com/KDE/krunner
+DEPENDENCIES
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kitemmodels>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

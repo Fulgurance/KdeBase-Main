@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Provides access to all contacts and aggregates them by person
 WEBSITE
-    https://api.kde.org/frameworks/kpeople/html/index.html
+    https://github.com/KDE/kpeople
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Kcontacts>=6.0.0 ~ <7.0.0

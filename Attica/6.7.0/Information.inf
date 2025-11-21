@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Qt library that implements the Open Collaboration Services API
 WEBSITE
-    https://api.kde.org/frameworks/attica/html/index.html
+    https://github.com/KDE/attica
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

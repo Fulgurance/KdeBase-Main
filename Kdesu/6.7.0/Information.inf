@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     User interface for running shell commands with root privileges
 WEBSITE
-    https://api.kde.org/frameworks/kdesu/html/index.html
+    https://github.com/KDE/kdesu
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

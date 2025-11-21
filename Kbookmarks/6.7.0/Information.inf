@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Bookmarks management library
 WEBSITE
-    https://api.kde.org/frameworks/kbookmarks/html/index.html
+    https://github.com/KDE/kbookmarks
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

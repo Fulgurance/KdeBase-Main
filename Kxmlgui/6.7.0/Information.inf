@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Framework for managing menu and toolbar actions
 WEBSITE
-    https://api.kde.org/frameworks/kxmlgui/html/index.html
+    https://github.com/KDE/kxmlgui
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

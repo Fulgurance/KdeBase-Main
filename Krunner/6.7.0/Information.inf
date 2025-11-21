@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Framework for Plasma runners
 WEBSITE
-    https://api.kde.org/frameworks/krunner/html/index.html
+    https://github.com/KDE/krunner
 DEPENDENCIES
         @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Kitemmodels>=6.0.0 ~ <7.0.0
