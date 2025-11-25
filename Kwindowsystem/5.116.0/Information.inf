@@ -1,0 +1,22 @@
+PORT
+    KdeBase-Main
+NAME
+    Kwindowsystem
+VERSION
+    5.116.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Access to the windowing system
+WEBSITE
+    https://github.com/KDE/kwindowsystem
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0 ~ <6.0.0
+        @QtLibraries-Main:Qtdeclarative>=5.0.0 ~ <6.0.0
+        @QtLibraries-Main:Qtwayland>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Plasma-Wayland-Protocols>=1.10.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
