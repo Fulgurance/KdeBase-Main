@@ -11,8 +11,8 @@ DESCRIPTION
 WEBSITE
     https://github.com/KDE/kwayland
 DEPENDENCIES
-        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
-        @QtLibraries-Main:Qtwayland>=6.0.0 ~ <7.0.0
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0 ~ <6.0.0
+        @QtLibraries-Main:Qtwayland>=5.0.0 ~ <6.0.0
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES
