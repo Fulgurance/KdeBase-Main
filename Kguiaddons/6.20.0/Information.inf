@@ -15,6 +15,7 @@ DEPENDENCIES
         @QtLibraries-Main:Qtwayland>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Plasma-Wayland-Protocols>=1.10.0
+        @Utilities-Main:Shiboken6>=6.10.1
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES
