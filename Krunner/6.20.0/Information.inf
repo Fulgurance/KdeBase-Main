@@ -13,6 +13,7 @@ WEBSITE
 DEPENDENCIES
         @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Kitemmodels>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES
