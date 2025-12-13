@@ -13,6 +13,7 @@ WEBSITE
 DEPENDENCIES
         @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
         @Utilities-Main:Shiboken6>=6.10.1
+        @BaseLibraries-Main:PySide6>=6.10.1
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES
