@@ -14,7 +14,7 @@ class Target < ISM::Software
                                     -DCMAKE_SKIP_INSTALL_RPATH=ON       \
                                     -DCMAKE_BUILD_TYPE=Release          \
                                     -DBUILD_TESTING=OFF                 \
-                                    -DShiboken6_DIR=/usr/lib/python#{softwareMajorVersion("@ProgrammingLanguages-Main:Python")}.#{softwareMinorVersion("@ProgrammingLanguages-Main:Python")}/site-packages/shiboken6/lib/cmake/Shiboken6  \
+                                    -DBUILD_PYTHON_BINDINGS=OFF         \
                                     -Wno-dev                            \
                                     ..",
                         path:       buildDirectoryPath)

@@ -14,8 +14,6 @@ DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qttools>=6.0.0 ~ <7.0.0
-        @Utilities-Main:Shiboken6>=6.10.1
-        @BaseLibraries-Main:PySide6-Essentials>=6.10.1
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES
