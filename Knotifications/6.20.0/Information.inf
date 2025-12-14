@@ -16,6 +16,7 @@ DEPENDENCIES
         @MultimediaLibraries-Main:Phonon>=4.11.1
         @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
         @MultimediaLibraries-Main:Libcanberra>=0.30.0
+        @Utilities-Main:Shiboken6>=6.10.1
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES
