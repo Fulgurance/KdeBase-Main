@@ -14,6 +14,9 @@ class Target < ISM::Software
                                     -DCMAKE_SKIP_INSTALL_RPATH=ON       \
                                     -DCMAKE_BUILD_TYPE=Release          \
                                     -DBUILD_TESTING=OFF                 \
+                                    -DBUILD_KSECRETD=OFF                \
+                                    -DBUILD_KWALLETD=OFF                \
+                                    -DBUILD_KWALLET_QUERY=OFF           \
                                     -Wno-dev                            \
                                     ..",
                         path:       buildDirectoryPath)
