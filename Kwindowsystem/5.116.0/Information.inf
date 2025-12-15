@@ -15,6 +15,7 @@ DEPENDENCIES
         @QtLibraries-Main:Qtdeclarative>=5.0.0 ~ <6.0.0
         @QtLibraries-Main:Qtwayland>=5.0.0 ~ <6.0.0
         @QtLibraries-Main:Qtx11extras>=5.0.0 ~ <6.0.0
+        @QtLibraries-Main:Qttools>=5.0.0 ~ <6.0.0
         @KdeBase-Main:Plasma-Wayland-Protocols>=1.10.0
 KERNELDEPENDENCIES
 OPTIONS
